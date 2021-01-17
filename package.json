@@ -1,0 +1,19 @@
+{
+  "name": "solar-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3",
+    "mailgun-js": "^0.22.0",
+    "node-html-parser": "^2.0.2",
+    "puppeteer": "^5.5.0",
+    "xml2js": "^0.4.23"
+  }
+}
